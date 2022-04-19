@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/MovieTableModel.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/dal/sql/MovieSQLRepository.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/PersonTransferable.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/dal/sql/ActorSQLRepository.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/moviearchicve.xml</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/Directors.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/Movies.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/Movie.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/Data.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/MovieTransferable.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/Director.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/dal/sql/DirectorSQLRepository.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/dal/RepositoryFactory.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/dal/sql/DataSourceSingleton.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/MovieArchive.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/MovieManager.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/dal/sql/UserSQLRepository.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/Actor.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/parsers/rss/MovieParser.java</file>
+            <file>file:/D:/Users/fran/fran/JavaProjekt/Java_Projekt/MovieManager/src/moviemanager/model/User.java</file>
+        </group>
+    </open-files>
+</project-private>
